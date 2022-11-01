@@ -9,12 +9,7 @@ def TotalVendas(Cod, Lista, Tam, qtd):
         j += 1
     return vendas
 
-print("\n\nNomes:")
-print("Igor Maximiliano de Jesus")
-print("Karen Talissa da Costa Bembem")
-print("Stephany Karolyne Silva Queiroz de Carvalho")
-print("Tiago Batista da Silva")
-
+print("Nome: Tiago Batista da Silva")
 
 Arq = open("c1_produtos.TXT", "r")
 produtos = []
